@@ -4,7 +4,7 @@
 
 <b>This is all very preliminary! Nothing about this course is finalized, and everything is subject to change.</b>
 
-Meets concurrently with LAW 7127: Artificial Intelligence and Machine Learning.
+Meets jointly with LAW 7127: Artificial Intelligence and Machine Learning.
 
 Expected Background:
 - Formal Prerequisite: DMT2

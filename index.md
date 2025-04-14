@@ -4,7 +4,7 @@
 
 <b>This is all very preliminary! Nothing about this course is finalized, and everything is subject to change.</b>
 
-Meets jointly with LAW 7127: Artificial Intelligence and Machine Learning.
+Meets jointly with LAW 7127: Artificial Intelligence and Machine Learning. The meeting time and location is not finalized, but we expect the class to meet Friday mornings (9-11:30am) in a classroom at the Law school. 
 
 Expected Background:
 - Formal Prerequisite: DMT2

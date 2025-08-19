@@ -2,11 +2,7 @@
   UVA Law and AI Course
 </h1>
 
-<b>This information is preliminary, and subject to change until we post the course syllabus.</b>
-
-Meets jointly with LAW 7127: Artificial Intelligence and Machine Learning. 
-
-**Class Meetings:** Fridays, 9:00-11:30am in Slaughter Hall 278 (this is a classroom in the Law School).
+**Class Meetings:** Fridays, 9:00-11:30am in Slaughter Hall 278 (this is a classroom in the Law School). Meets jointly with LAW 7127: _Artificial Intelligence and Machine Learning_. 
 
 **Expected Background:**
 

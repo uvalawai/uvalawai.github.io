@@ -20,6 +20,6 @@ Specific topics we expect to cover include:
 
 **Syllabis:**  
 [CS 4501: _Law and AI_](/ailaw-syllabus)  
-LAW 7127: _Artificial Intelligence and Machine Learning (to be linked soon)  
+LAW 7127: _Artificial Intelligence and Machine Learning_ (to be linked soon)  
 
 

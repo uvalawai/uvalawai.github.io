@@ -2,15 +2,11 @@
   UVA Law and AI Course
 </h1>
 
-**Class Meetings:** Fridays, 9:00-11:30am in Slaughter Hall 278 (this is a classroom in the Law School). Meets jointly with LAW 7127: _Artificial Intelligence and Machine Learning_. 
+This is the public course site for the joint LAW/CS course LAW 7127: _Artificial Intelligence and Machine Learning_ and CS4501: _Law and Artificial Intelligence_.
 
-**Expected Background:**
+**Instructors:** [Thomas Nachbar](), UVA Law; [David Evans](https://www.cs.virginia.edu/evans), UVA Computer Science
 
-- Formal Prerequisite: completed CS 2100 (DSA1) or CS 2130 (CSO1).
-
-- Informal Prerequisite: Students are not required to have machine learning background, but should be comfortable enough with programming and math concepts to be able to go through a PyTorch tutorial on their own. 
-
-- No previous background in law is expected, but students should be willing to read legal writings.
+**Class Meetings:** Fridays, 9:00-11:30am in Slaughter Hall 278 (this is a classroom in the Law School)
 
 **Course Content:**
 This course will explore connections between law and computing, with a focus on artificial intelligence and machine learning. We will consider ways computing systems can be designed and analyzed to satisfy laws and regulations, and how understanding of the law impacts how we design and reason about computing systems. 

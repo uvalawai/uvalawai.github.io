@@ -7,7 +7,7 @@
 
 This course will explore connections between law and computing, with a focus on artificial intelligence and machine learning. 
 
-This is a jointly taught course, and the LAW 7127 and CS 4501 courses will meet together and mostly have the same assignments. For many of the assignments, including the final project, Law and CS students will be working closely together in a team. 
+This is a jointly taught course, and the LAW 7127 and CS 4501 courses will meet together and mostly have the same assignments. For many of the assignments, including the final project, Law and CS students will be working closely together in a team. This syllabus applies only for the CS section, though; the LAW class has a different syllabus.
 
 This class will be different from typical CS courses, and students in the class are expected to be open to learning new things in different ways in a different academic culture, as well as to sharing and explaining your computer science expertise with Law students. We also expect CS students to learn some new computing concepts, techniques, and skills in the course.
 

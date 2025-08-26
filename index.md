@@ -22,4 +22,5 @@ Specific topics we expect to cover include:
 [CS 4501: _Law and AI_](/ailaw-syllabus)  
 LAW 7127: _Artificial Intelligence and Machine Learning_ (to be linked soon)  
 
+[**Course Schedule**](/schedule)
 

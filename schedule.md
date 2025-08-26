@@ -4,7 +4,7 @@
 
 **Pre-Course Survey**
 
-cs4501 students only: Submit this pre-course survey before **5pm** on **Thursday, 28 August**: 
+_cs4501 students only_: Submit this pre-course survey before **5pm** on **Thursday, 28 August**:   
 [cs4501: Pre-Course Survey](https://forms.gle/ApXvZV5LorAX2SD46) (Google Form)
 
 **Readings:** (to be read before class)

@@ -18,7 +18,8 @@ Specific topics we expect to cover include:
 - Copyright: how copyright applies to code, training data, and models, and technical measures for following copyright law.
 - Privacy: legal requirements for privacy and how they can be implemented with algorithms and software designs
 
-**Projects:**
-CS students will be expected to do some assignments as part of a small team that includes both Law and CS students. The first part of the semester will involve some structured projects; later in the semester, students will work in small teams on open ended projects that are relevant to Law and AI.
+**Syllabis:**
+[CS 4501: _Law and AI_](/cs4501-syllabus)  
+LAW 7127: _Artificial Intelligence and Machine Learning (to be linked soon)  
 
 

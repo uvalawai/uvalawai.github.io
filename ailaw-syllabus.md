@@ -114,3 +114,5 @@ The second half of will focus on your Final Group Projects. Class and readings w
 **Class 13** (21 November): TBD and Draft Project Presentations
 
 Note that 5 December is not a class day for the Law School, so we will not have a normal class meeting on Friday, 5 December, but may plan something for just the CS students.
+
+**Final Project Presentations**: Scheduled with instructors during end of semester and exam period (8-16 December).

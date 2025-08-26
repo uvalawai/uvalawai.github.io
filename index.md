@@ -4,7 +4,7 @@
 
 This is the public course site for the joint LAW/CS course LAW 7127: _Artificial Intelligence and Machine Learning_ and CS4501: _Law and Artificial Intelligence_.
 
-**Instructors:** [Thomas Nachbar](), UVA Law; [David Evans](https://www.cs.virginia.edu/evans), UVA Computer Science
+**Instructors:** [Thomas Nachbar](https://www.law.virginia.edu/faculty/profile/tbn4n/1194120), UVA Law; [David Evans](https://www.cs.virginia.edu/evans), UVA Computer Science
 
 **Class Meetings:** Fridays, 9:00-11:30am in Slaughter Hall 278 (this is a classroom in the Law School)
 
@@ -18,8 +18,8 @@ Specific topics we expect to cover include:
 - Copyright: how copyright applies to code, training data, and models, and technical measures for following copyright law.
 - Privacy: legal requirements for privacy and how they can be implemented with algorithms and software designs
 
-**Syllabis:**
-[CS 4501: _Law and AI_](/cs4501-syllabus)  
+**Syllabis:**  
+[CS 4501: _Law and AI_](/ailaw-syllabus)  
 LAW 7127: _Artificial Intelligence and Machine Learning (to be linked soon)  
 
 

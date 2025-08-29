@@ -22,7 +22,7 @@ _cs4501 students only_: Submit this pre-course survey before **5pm** on **Thursd
 
 The Law students are also reading the first three readings, but not the Introduction to Law and Legal Systems chapter, which covers things they are expected to already know well from having at least a year of Law school. Please think about any questions you have from that and ask them in class (or email us before class) on Friday.
 
-**Homework **
+**Homework**
 
 - Submit the Homework 1: Using LLMs assignment in canvas by 9pm on Wednesday:
 https://canvas.its.virginia.edu/courses/147155/assignments/757555

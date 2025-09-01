@@ -25,8 +25,9 @@ The Law students are also reading the first three readings, but not the Introduc
 **Homework**
 
 - Submit the Homework 1: Using LLMs assignment in canvas by 9pm on Wednesday:
-https://canvas.its.virginia.edu/courses/147155/assignments/757555
+[https://canvas.its.virginia.edu/courses/147155/assignments/757555](https://canvas.its.virginia.edu/courses/147155/assignments/757555)
+
 
 - If you joined the class late and missed the message about the pre-course survey, please make sure to submit this soon:
-https://forms.gle/ApXvZV5LorAX2SD46
+[https://forms.gle/ApXvZV5LorAX2SD46](https://forms.gle/ApXvZV5LorAX2SD46)
 

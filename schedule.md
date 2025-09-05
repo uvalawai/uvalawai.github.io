@@ -31,3 +31,5 @@ The Law students are also reading the first three readings, but not the Introduc
 - If you joined the class late and missed the message about the pre-course survey, please make sure to submit this soon:
 [https://forms.gle/ApXvZV5LorAX2SD46](https://forms.gle/ApXvZV5LorAX2SD46)
 
+Link to notebook:
+https://colab.research.google.com/drive/1GGgUX2dfhB0pHacsZBuKxWMfysG1_PTE

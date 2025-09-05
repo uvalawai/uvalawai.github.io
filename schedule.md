@@ -31,5 +31,21 @@ The Law students are also reading the first three readings, but not the Introduc
 - If you joined the class late and missed the message about the pre-course survey, please make sure to submit this soon:
 [https://forms.gle/ApXvZV5LorAX2SD46](https://forms.gle/ApXvZV5LorAX2SD46)
 
-Link to notebook:
-https://colab.research.google.com/drive/1GGgUX2dfhB0pHacsZBuKxWMfysG1_PTE
+Link to notebooks from class:
+- Exploring Tokens: https://colab.research.google.com/drive/1GGgUX2dfhB0pHacsZBuKxWMfysG1_PTE
+- Exploring Embeddings: https://colab.research.google.com/drive/1QJ9SOQGF27082vJntioBSC2SLnBd-FGx?usp=sharing
+
+Note to run these yourself, you will need to get a token from https://huggingface.co/.
+
+### Week 3
+
+**Readings:**
+
+- Solon Barocas, Moritz Hardt & Arvind Narayanan, Chapter 3: Classification from Fairness and Machine Learning (2023). Chapter link: https://fairmlbook.org/classification.html or as PDF: https://fairmlbook.org/pdf/classification.pdf
+- Solon Barocas & Andrew D. Selbst, Big Data's Disparate Impact, 104 California Law Review 671 (2016), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899. [Direct PDF link](/readings/barocas.pdf)
+
+**Homework**
+
+- Submit [Homework 2: Document Bot](https://canvas.its.virginia.edu/courses/147155/assignments/762232) in canvas before 9pm on Wednesday, 10 September. Note that this requires reading the Barocas & Selbst paper first.
+
+

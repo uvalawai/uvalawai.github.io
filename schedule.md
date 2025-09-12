@@ -48,4 +48,16 @@ Note to run these yourself, you will need to get a token from https://huggingfac
 
 - Submit [Homework 2: Document Bot](https://canvas.its.virginia.edu/courses/147155/assignments/762232) in canvas before 9pm on Wednesday, 10 September. Note that this requires reading the Barocas & Selbst paper first.
 
+### Week 4
+
+**Project 1:** [Notebook Link](https://colab.research.google.com/drive/18ww7xI7-OeUFa3Bq8P10Z0Ui1cw_uUax)
+
+**Readings:**
+- Solon Barocas, Moritz Hardt & Arvind Narayanan, Chapter 5: Causality from Fairness and Machine Learning (2023). [Chapter link](https://fairmlbook.org/causal.html) or [PDF](https://fairmlbook.org/pdf/causal.pdf)
+- Nripsuta Saxena and Karen Huang and Evan DeFilippis and Goran Radanovic and David Parkes and Yang Liu. [_How Do Fairness Definitions Fare? Examining Public Attitudes Towards Algorithmic Definitions of Fairness_](https://arxiv.org/pdf/1811.03654). AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES), 2019. Conference Link: [PDF](https://www.aies-conference.com/2019/wp-content/papers/main/AIES-19_paper_229.pdf).
+- Thomas B. Nachbar, [Algorithmic Fairness, Algorithmic Discrimination](/readings/nachbar-fairness.pdf). 48 Florida State University Law Review 509 (2021). 
+
+There is no assignment to submit this week, but we are expecting teams to get to the part of the Project 1 notebook marked as "Target for Week 1". Your completed Project 1 notebook will be due on Wednesday, 24 September.
+
+
 

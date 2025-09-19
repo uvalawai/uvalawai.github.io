@@ -59,5 +59,16 @@ Note to run these yourself, you will need to get a token from https://huggingfac
 
 There is no assignment to submit this week, but we are expecting teams to get to the part of the Project 1 notebook marked as "Target for Week 1". Your completed Project 1 notebook will be due on Wednesday, 24 September.
 
+### Week 5
 
+**Project 1:** Project 1 is due on Wednesday (Sept 24) at 9pm. Each team should submit their Project 1 using the [Group Project 1](https://canvas.its.virginia.edu/courses/147155/assignments/766672) assignment in Canvas. Only one team member submits your PDF for the full team.
+
+**Slides:** The slides for today's class (and all previous classes) are in the ["Files/Class Slides" directory in Canvas](https://canvas.its.virginia.edu/courses/147155/files). 
+
+**Readings:** 
+
+- P. Jonathan Phillips, et al., _Four Principles of Explainable Artificial Intelligence_, NIST Interagency/Internal Report (NISTIR) 8312 (2021): [https://doi.org/10.6028/NIST.IR.8312](https://doi.org/10.6028/NIST.IR.8312)
+
+- Christoph Molnars, _Interpretable Machine Learning: A Guide for Making Black Box Models Explainable_, Chapter 17: _Shapley Values_. [https://christophm.github.io/interpretable-ml-book/shapley.html](https://christophm.github.io/interpretable-ml-book/shapley.html) </a> (Law students can skip the &ldquo;Shapley value theory&rdquo; section, but we encourage CS students to read it)
+- Aidan Cooper, _Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses_: [https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
 

@@ -69,6 +69,6 @@ There is no assignment to submit this week, but we are expecting teams to get to
 
 - P. Jonathan Phillips, et al., _Four Principles of Explainable Artificial Intelligence_, NIST Interagency/Internal Report (NISTIR) 8312 (2021): [https://doi.org/10.6028/NIST.IR.8312](https://doi.org/10.6028/NIST.IR.8312)
 
-- Christoph Molnars, _Interpretable Machine Learning: A Guide for Making Black Box Models Explainable_, Chapter 17: _Shapley Values_. [https://christophm.github.io/interpretable-ml-book/shapley.html](https://christophm.github.io/interpretable-ml-book/shapley.html) </a> (Law students can skip the &ldquo;Shapley value theory&rdquo; section, but we encourage CS students to read it)
+- Christoph Molnars, _Interpretable Machine Learning: A Guide for Making Black Box Models Explainable_, Chapter 17: _Shapley Values_. [https://christophm.github.io/interpretable-ml-book/shapley.html](https://christophm.github.io/interpretable-ml-book/shapley.html) (Law students can skip the &ldquo;Shapley value theory&rdquo; section, but we encourage CS students to read it)
 - Aidan Cooper, _Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses_: [https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
 

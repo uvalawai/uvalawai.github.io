@@ -72,3 +72,4 @@ There is no assignment to submit this week, but we are expecting teams to get to
 - Christoph Molnars, _Interpretable Machine Learning: A Guide for Making Black Box Models Explainable_, Chapter 17: _Shapley Values_. [https://christophm.github.io/interpretable-ml-book/shapley.html](https://christophm.github.io/interpretable-ml-book/shapley.html) (Law students can skip the &ldquo;Shapley value theory&rdquo; section, but we encourage CS students to read it)
 - Aidan Cooper, _Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses_: [https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
 
+[**Project 2 Notebook**](https://colab.research.google.com/drive/1hmgTI2rNYEdntNzNXd0kmIbyxEpRZiRD?usp=sharing)

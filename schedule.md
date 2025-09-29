@@ -72,4 +72,16 @@ There is no assignment to submit this week, but we are expecting teams to get to
 - Christoph Molnars, _Interpretable Machine Learning: A Guide for Making Black Box Models Explainable_, Chapter 17: _Shapley Values_. [https://christophm.github.io/interpretable-ml-book/shapley.html](https://christophm.github.io/interpretable-ml-book/shapley.html) (Law students can skip the &ldquo;Shapley value theory&rdquo; section, but we encourage CS students to read it)
 - Aidan Cooper, _Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses_: [https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
 
-[**Project 2 Notebook**](https://colab.research.google.com/drive/1hmgTI2rNYEdntNzNXd0kmIbyxEpRZiRD?usp=sharing)
+### Week 6: Copyright
+
+[**Project 2 Notebook**](https://colab.research.google.com/drive/1hmgTI2rNYEdntNzNXd0kmIbyxEpRZiRD?usp=sharing) Project 2 is due **Wednesday, 9:00pm**.
+
+**Readings:**
+
+- A. Feder Cooper, Aaron Gokaslan, Ahmed Ahmed, Amy B. Cyphert, Christopher De Sa, Mark A. Lemley, Daniel E. Ho, Percy Liang. _Extracting memorized pieces of (copyrighted) books from open-weight language models_.  [https://arxiv.org/abs/2505.12546](https://arxiv.org/abs/2505.12546)  (Don’t be scared by the 171 pages! The part to read is only the first 17 pages, the rest are appendices.)
+
+- Regina Sam Penti, Matthew J. Rizzolo & Yam Schaal. _Anthropic’s Landmark Copyright Settlement: Implications for AI Developers and Enterprise Users_, Ropes & Gray (Sept. 8, 2025). [https://www.ropesgray.com/en/insights/alerts/2025/09/anthropics-landmark-copyright-settlement-implications-for-ai-developers-and-enterprise-users](https://www.ropesgray.com/en/insights/alerts/2025/09/anthropics-landmark-copyright-settlement-implications-for-ai-developers-and-enterprise-users) 
+ 
+- U.S. Copyright Office. _Copyright and Artificial Intelligence Part 3: Generative AI Training_ (prepublication version May 2025). [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)  You are only expected to read pages 1-31, on the basic technology (which will be a refresher) and on infringement. We will talk about fair use, but we will be focusing on the infringement inquiry.
+
+- John M. Griem, Jr. and Judith Wallace. )Managing the Risk of Using AI-Generated Content in a World of Copyright Uncertainty: Are AI Content Generators and AI Generated Expressions “Derivatives” of Copyrighted Works?_. Carter Ledyard (Aug, 28, 2023). [https://www.clm.com/managing-the-risk-of-using-ai-generated-content-in-a-world-of-copyright-uncertainly-are-ai-content-generators-and-ai-generated-expressions-derivatives-of-copyrighted-works/](https://www.clm.com/managing-the-risk-of-using-ai-generated-content-in-a-world-of-copyright-uncertainly-are-ai-content-generators-and-ai-generated-expressions-derivatives-of-copyrighted-works/)

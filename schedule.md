@@ -97,6 +97,6 @@ The readings (all located in the Files portion of the Canvas site) are:
 - Renato Nazzini &amp; James Henderson, <i>Overcoming the Current Knowledge Gap of Algorithmic &ldquo;Collusion&rdquo; and the Role of Computational Antitrust</i>, Stanford Computational Antitrust, 2024. [[PDF](https://law.stanford.edu/wp-content/uploads/2024/02/Algorithmic-Collusion.pdf)]
 
 - Amended Complaint, <i>U.S. et al. v. RealPage</i> [[PDF](https://www.justice.gov/atr/media/1383471/dl)]. (Just review the Complaint to get a sense of the case - we will go over what you need to know in class. <strong>Be sure to take a good look at the Introduction and the first four Claims in Section VIII.</strong>)
-- Proposed Final Judgment, <i>U.S. et al. v. RealPage </i>[[PDF](https://www.justice.gov/atr/media/1383491/dl)].(Again, just get an overall sense of what is happening with the settlement. <strong>Make sure to look at Sections IV, VII, and VIII.</strong>)</p>
+- Proposed Final Judgment, <i>U.S. et al. v. RealPage </i>[[PDF](https://www.justice.gov/atr/media/1383491/dl)].(Again, just get an overall sense of what is happening with the settlement. <strong>Make sure to look at Sections IV, VII, and VIII.</strong>)
 
 (The original sources and other materials from the case against RealPage are available at <a href="https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc" target="_blank" rel="noopener">https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc</a>.)

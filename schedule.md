@@ -85,3 +85,18 @@ There is no assignment to submit this week, but we are expecting teams to get to
 - U.S. Copyright Office. _Copyright and Artificial Intelligence Part 3: Generative AI Training_ (prepublication version May 2025). [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)  You are only expected to read pages 1-31, on the basic technology (which will be a refresher) and on infringement. We will talk about fair use, but we will be focusing on the infringement inquiry.
 
 - John M. Griem, Jr. and Judith Wallace. )Managing the Risk of Using AI-Generated Content in a World of Copyright Uncertainty: Are AI Content Generators and AI Generated Expressions “Derivatives” of Copyrighted Works?_. Carter Ledyard (Aug, 28, 2023). [https://www.clm.com/managing-the-risk-of-using-ai-generated-content-in-a-world-of-copyright-uncertainly-are-ai-content-generators-and-ai-generated-expressions-derivatives-of-copyrighted-works/](https://www.clm.com/managing-the-risk-of-using-ai-generated-content-in-a-world-of-copyright-uncertainly-are-ai-content-generators-and-ai-generated-expressions-derivatives-of-copyrighted-works/)
+
+### Week 7: Anti-Trust
+
+**Project 3** is due <strong>Wednesday, October 15 at 9:00pm</strong> (not this week, but next week includes "Fall Break"). The notebook for Project 3 is here: [https://uvalawai.github.io/project3](https://uvalawai.github.io/project3) (you should be working in your own team's copy).
+
+In class 7, we will discuss the relationship between antitrust and AI and ML. 
+
+The readings (all located in the Files portion of the Canvas site) are:
+
+- Renato Nazzini &amp; James Henderson, <i>Overcoming the Current Knowledge Gap of Algorithmic &ldquo;Collusion&rdquo; and the Role of Computational Antitrust</i>, Stanford Computational Antitrust, 2024. [[PDF](https://law.stanford.edu/wp-content/uploads/2024/02/Algorithmic-Collusion.pdf)]
+
+- Amended Complaint, <i>U.S. et al. v. RealPage</i> [[PDF](https://www.justice.gov/atr/media/1383471/dl)]. (Just review the Complaint to get a sense of the case - we will go over what you need to know in class. <strong>Be sure to take a good look at the Introduction and the first four Claims in Section VIII.</strong>)
+- Proposed Final Judgment, <i>U.S. et al. v. RealPage </i>[[PDF](https://www.justice.gov/atr/media/1383491/dl)].(Again, just get an overall sense of what is happening with the settlement. <strong>Make sure to look at Sections IV, VII, and VIII.</strong>)</p>
+
+(The original sources and other materials from the case against RealPage are available at <a href="https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc" target="_blank" rel="noopener">https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc</a>.)

@@ -100,3 +100,21 @@ The readings (all located in the Files portion of the Canvas site) are:
 - Proposed Final Judgment, <i>U.S. et al. v. RealPage </i>[[PDF](https://www.justice.gov/atr/media/1383491/dl)]. (Again, just get an overall sense of what is happening with the settlement. <strong>Make sure to look at Sections IV, VII, and VIII.</strong>)
 
 (The original sources and other materials from the case against RealPage are available at <a href="https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc" target="_blank" rel="noopener">https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc</a>.)
+
+### Week 8: Regulation
+
+**Project 3** is due <strong>Wednesday, October 15 at 9:00pm</strong>. The starting notebook for Project 3 is here: [https://uvalawai.github.io/project3](https://uvalawai.github.io/project3).
+
+**Final Project Topic Discussion:** Contribute to the Final Project Topic Discussion before **Thursday, October 16** at **8:00 PM**. 
+
+
+**Readings:**
+
+- Artificial Intelligence Legislation Tracker, Brennan Center (Dec. 30, 2024): [https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker](https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker) (skim)
+
+EU Made Simple, The EU’s AI Act Explained, Youtube Video (Sept. 21, 2024): [https://www.youtube.com/watch?v=s_rxOnCt3HQ](https://www.youtube.com/watch?v=s_rxOnCt3HQ) 
+
+- Sarah Schechner and Stacy Meichtry, _Vance Warns U.S. allies to Keep AI Regulation Light_, Wall Street Journal, 11 February 2025. (available on course Canvas site) [https://www.wsj.com/tech/ai/vance-warns-u-s-allies-to-keep-ai-regulation-light-aa33c008?st=YXwaw7&reflink=desktopwebshare_permalink](https://www.wsj.com/tech/ai/vance-warns-u-s-allies-to-keep-ai-regulation-light-aa33c008?st=YXwaw7&reflink=desktopwebshare_permalink)
+
+- California Transparency in Frontier Artificial Intelligence Act (TFAIA), SB 53: [https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53) 
+

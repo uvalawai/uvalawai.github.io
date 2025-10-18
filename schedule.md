@@ -120,7 +120,7 @@ EU Made Simple, The EU’s AI Act Explained, Youtube Video (Sept. 21, 2024): [ht
 
 ### Week 9: Privacy
 
-- Joel Reardon, Serge Egelman, Kenneth A. Bamberger, and Larel E. McGrane. _Anonymity, Consent, and Other Noble Lies: An Empirical Study of the Data Economy_. To appear in Yale Journal of Law & Technology, 2025.
+- Joel Reardon, Serge Egelman, Kenneth A. Bamberger, and Larel E. McGrane. _Anonymity, Consent, and Other Noble Lies: An Empirical Study of the Data Economy_. To appear in Yale Journal of Law & Technology, 2025. [[Canvas Link](https://canvas.its.virginia.edu/courses/147155/files/16720877/download?download_frd=1)]
 
 [Serge Egelman](https://www.guanotronic.com/~serge/) will be our visitor in class on October 24.
 

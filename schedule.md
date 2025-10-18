@@ -118,3 +118,10 @@ EU Made Simple, The EU’s AI Act Explained, Youtube Video (Sept. 21, 2024): [ht
 
 - California Transparency in Frontier Artificial Intelligence Act (TFAIA), SB 53: [https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53) 
 
+### Week 9: Privacy
+
+- Joel Reardon, Serge Egelman, Kenneth A. Bamberger, and Larel E. McGrane. _Anonymity, Consent, and Other Noble Lies: An Empirical Study of the Data Economy_. To appear in Yale Journal of Law & Technology, 2025.
+
+[Serge Egelman](https://www.guanotronic.com/~serge/) will be our visitor in class on October 24.
+
+

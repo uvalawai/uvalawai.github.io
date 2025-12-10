@@ -55,7 +55,7 @@ Students are expected to bring a laptop to each class session (if you have a lap
 | Individual Homework | 10% |
 | Group Projects 1-3 | 30% |
 | Final Project (team) | 30% |
-| Project Reflection Papers (individual) | 15% |
+| Project Reflection Papers (individual) | 15% (Law students only) |
 
 This weighting will be used to compute a minimum grade, but there is some flexibility in how different aspects of the course will be weighted to reflect exceptional performance on particular items. For example, Class Contribution can count for more than 15% for a student who makes consistently valuable contributions to the class, and an outstanding final project may overcome weaknesses in earlier assignments.
 

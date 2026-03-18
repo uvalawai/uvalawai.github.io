@@ -124,4 +124,7 @@ EU Made Simple, The EU’s AI Act Explained, Youtube Video (Sept. 21, 2024): [ht
 
 [Serge Egelman](https://www.guanotronic.com/~serge/) will be our visitor in class on October 24.
 
+### Weeks 10 and 11: Draft Presentations
+
+Draft presentations and discussion from project teams.
 

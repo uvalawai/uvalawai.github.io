@@ -6,7 +6,7 @@ This is the public course site for the joint LAW/CS course LAW 7127: _Artificial
 
 **Instructors:** [Thomas Nachbar](https://www.law.virginia.edu/faculty/profile/tbn4n/1194120), UVA Law; [David Evans](https://www.cs.virginia.edu/evans), UVA Computer Science
 
-**Class Meetings:** Fridays, 9:00-11:30am in Slaughter Hall 278 (this is a classroom in the Law School)
+**Class Meetings:** Fridays, 9:00-11:30am in WB 152 (this is a classroom in the Law School)
 
 **Course Content:**
 This course will explore connections between law and computing, with a focus on artificial intelligence and machine learning. We will consider ways computing systems can be designed and analyzed to satisfy laws and regulations, and how understanding of the law impacts how we design and reason about computing systems. 
@@ -17,6 +17,7 @@ Specific topics we expect to cover include:
 - Explainability and Interpretability: how can we justify decisions made by machine learning systems and know when such systems can be trusted.
 - Copyright: how copyright applies to code, training data, and models, and technical measures for following copyright law.
 - Privacy: legal requirements for privacy and how they can be implemented with algorithms and software designs
+- Anti-Trust: what behaviors are anti-competitive, and how can anti-trust law impact development of AI
 
 **Syllabis:**  
 [CS 4501: _Law and AI_](/ailaw-syllabus)  

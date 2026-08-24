@@ -1,0 +1,130 @@
+# Schedule
+
+### Week 1 (29 August 2025)
+
+**Pre-Course Survey**
+
+_cs4501 students only_: Submit this pre-course survey before **5pm** on **Thursday, 28 August**:   
+[cs4501: Pre-Course Survey](https://forms.gle/ApXvZV5LorAX2SD46) (Google Form)
+
+**Readings:** (to be read before class)
+- Frank H. Easterbrook, [_Cyberspace and the Law of the Horse_](/readings/easterbrook.pdf), 1996 University of Chicago Legal Forum 207 (1996). [[PDF](/readings/easterbrook.pdf)]
+- Ted Chiang, [_ChatGPT is a Blurry JPEG of the Web_](/readings/chiang.pdf), The New Yorker, 9 February 2023. [[PDF](/readings/chiang.pdf)] [[Original Site](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)]
+
+### Week 2
+
+**Readings:** (to be read and thought about before classs on Friday 5 September)
+
+- Mark Riedl, [_The Intuition Behind How Large Language Models Work_, Part I](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-166cf2fb278a), Medium (Aug. 6, 2025). 
+- Mark Riedl, [_The Intuition Behind How Large Language Models Work_, Part II](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-part-ii-8c6a127a4a99), Medium (Aug. 13, 2025) 
+- William A. Ryan, et al., [_Practical Lessons from the Attorney AI Missteps in Mata v. Avianca_](https://www.acc.com/resource-library/practical-lessons-attorney-ai-missteps-mata-v-avianca), Association of Corporate Counsel (Aug. 8, 2023). 
+- [_Introduction to Law and Legal Systems_](https://saylordotorg.github.io/text_introduction-to-the-law-of-property-estate-planning-and-insurance/s04-introduction-to-law-and-legal-.html), Chapter 1 from Don Mayer et al., Introduction to the Law of Property, Estate Planning and Insurance (2012) 
+
+The Law students are also reading the first three readings, but not the Introduction to Law and Legal Systems chapter, which covers things they are expected to already know well from having at least a year of Law school. Please think about any questions you have from that and ask them in class (or email us before class) on Friday.
+
+**Homework**
+
+- Submit the Homework 1: Using LLMs assignment in canvas by 9pm on Wednesday:
+[https://canvas.its.virginia.edu/courses/147155/assignments/757555](https://canvas.its.virginia.edu/courses/147155/assignments/757555)
+
+
+- If you joined the class late and missed the message about the pre-course survey, please make sure to submit this soon:
+[https://forms.gle/ApXvZV5LorAX2SD46](https://forms.gle/ApXvZV5LorAX2SD46)
+
+Link to notebooks from class:
+- [Exploring Tokens](https://colab.research.google.com/drive/1GGgUX2dfhB0pHacsZBuKxWMfysG1_PTE)
+- [Exploring Embeddings](https://colab.research.google.com/drive/1QJ9SOQGF27082vJntioBSC2SLnBd-FGx?usp=sharing)
+
+Note to run these yourself, you will need to get a token from https://huggingface.co/.
+
+### Week 3
+
+**Readings:**
+
+- Solon Barocas, Moritz Hardt & Arvind Narayanan, Chapter 3: Classification from Fairness and Machine Learning (2023). [Chapter link](https://fairmlbook.org/classification.html) or [PDF](https://fairmlbook.org/pdf/classification.pdf)
+- Solon Barocas & Andrew D. Selbst, Big Data's Disparate Impact, 104 California Law Review 671 (2016), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899. [Direct PDF link](/readings/barocas.pdf)
+
+**Homework**
+
+- Submit [Homework 2: Document Bot](https://canvas.its.virginia.edu/courses/147155/assignments/762232) in canvas before 9pm on Wednesday, 10 September. Note that this requires reading the Barocas & Selbst paper first.
+
+### Week 4
+
+**Project 1:** [Notebook Link](https://colab.research.google.com/drive/18ww7xI7-OeUFa3Bq8P10Z0Ui1cw_uUax)
+
+**Readings:**
+- Solon Barocas, Moritz Hardt & Arvind Narayanan, Chapter 5: Causality from Fairness and Machine Learning (2023). [Chapter link](https://fairmlbook.org/causal.html) or [PDF](https://fairmlbook.org/pdf/causal.pdf)
+- Nripsuta Saxena and Karen Huang and Evan DeFilippis and Goran Radanovic and David Parkes and Yang Liu. [_How Do Fairness Definitions Fare? Examining Public Attitudes Towards Algorithmic Definitions of Fairness_](https://arxiv.org/pdf/1811.03654). AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES), 2019. Conference Link: [PDF](https://www.aies-conference.com/2019/wp-content/papers/main/AIES-19_paper_229.pdf).
+- Thomas B. Nachbar, [Algorithmic Fairness, Algorithmic Discrimination](/readings/nachbar-fairness.pdf). 48 Florida State University Law Review 509 (2021). 
+
+There is no assignment to submit this week, but we are expecting teams to get to the part of the Project 1 notebook marked as "Target for Week 1". Your completed Project 1 notebook will be due on Wednesday, 24 September.
+
+### Week 5
+
+**Project 1:** Project 1 is due on Wednesday (Sept 24) at 9pm. Each team should submit their Project 1 using the [Group Project 1](https://canvas.its.virginia.edu/courses/147155/assignments/766672) assignment in Canvas. Only one team member submits your PDF for the full team.
+
+**Slides:** The slides for today's class (and all previous classes) are in the ["Files/Class Slides" directory in Canvas](https://canvas.its.virginia.edu/courses/147155/files). 
+
+**Readings:** 
+
+- P. Jonathan Phillips, et al., _Four Principles of Explainable Artificial Intelligence_, NIST Interagency/Internal Report (NISTIR) 8312 (2021): [https://doi.org/10.6028/NIST.IR.8312](https://doi.org/10.6028/NIST.IR.8312)
+
+- Christoph Molnars, _Interpretable Machine Learning: A Guide for Making Black Box Models Explainable_, Chapter 17: _Shapley Values_. [https://christophm.github.io/interpretable-ml-book/shapley.html](https://christophm.github.io/interpretable-ml-book/shapley.html) (Law students can skip the &ldquo;Shapley value theory&rdquo; section, but we encourage CS students to read it)
+- Aidan Cooper, _Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses_: [https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
+
+### Week 6: Copyright
+
+[**Project 2 Notebook**](https://colab.research.google.com/drive/1hmgTI2rNYEdntNzNXd0kmIbyxEpRZiRD?usp=sharing) Project 2 is due **Wednesday, 9:00pm**.
+
+**Readings:**
+
+- A. Feder Cooper, Aaron Gokaslan, Ahmed Ahmed, Amy B. Cyphert, Christopher De Sa, Mark A. Lemley, Daniel E. Ho, Percy Liang. _Extracting memorized pieces of (copyrighted) books from open-weight language models_.  [https://arxiv.org/abs/2505.12546](https://arxiv.org/abs/2505.12546)  (Don’t be scared by the 171 pages! The part to read is only the first 17 pages, the rest are appendices.)
+
+- Regina Sam Penti, Matthew J. Rizzolo & Yam Schaal. _Anthropic’s Landmark Copyright Settlement: Implications for AI Developers and Enterprise Users_, Ropes & Gray (Sept. 8, 2025). [https://www.ropesgray.com/en/insights/alerts/2025/09/anthropics-landmark-copyright-settlement-implications-for-ai-developers-and-enterprise-users](https://www.ropesgray.com/en/insights/alerts/2025/09/anthropics-landmark-copyright-settlement-implications-for-ai-developers-and-enterprise-users) 
+ 
+- U.S. Copyright Office. _Copyright and Artificial Intelligence Part 3: Generative AI Training_ (prepublication version May 2025). [https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)  You are only expected to read pages 1-31, on the basic technology (which will be a refresher) and on infringement. We will talk about fair use, but we will be focusing on the infringement inquiry.
+
+- John M. Griem, Jr. and Judith Wallace. _Managing the Risk of Using AI-Generated Content in a World of Copyright Uncertainty: Are AI Content Generators and AI Generated Expressions “Derivatives” of Copyrighted Works?_. Carter Ledyard (Aug, 28, 2023). [https://www.clm.com/managing-the-risk-of-using-ai-generated-content-in-a-world-of-copyright-uncertainly-are-ai-content-generators-and-ai-generated-expressions-derivatives-of-copyrighted-works/](https://www.clm.com/managing-the-risk-of-using-ai-generated-content-in-a-world-of-copyright-uncertainly-are-ai-content-generators-and-ai-generated-expressions-derivatives-of-copyrighted-works/)
+
+### Week 7: Anti-Trust
+
+**Project 3** is due <strong>Wednesday, October 15 at 9:00pm</strong> (not this week, but next week includes "Fall Break"). The notebook for Project 3 is here: [https://uvalawai.github.io/project3](https://uvalawai.github.io/project3) (you should be working in your own team's copy).
+
+In class 7, we will discuss the relationship between antitrust and AI and ML. 
+
+The readings (all located in the Files portion of the Canvas site) are:
+
+- Renato Nazzini &amp; James Henderson, <i>Overcoming the Current Knowledge Gap of Algorithmic &ldquo;Collusion&rdquo; and the Role of Computational Antitrust</i>, Stanford Computational Antitrust, 2024. [[PDF](https://law.stanford.edu/wp-content/uploads/2024/02/Algorithmic-Collusion.pdf)]
+
+- Amended Complaint, <i>U.S. et al. v. RealPage</i> [[PDF](https://www.justice.gov/atr/media/1383471/dl)]. (Just review the Complaint to get a sense of the case - we will go over what you need to know in class. <strong>Be sure to take a good look at the Introduction and the first four Claims in Section VIII.</strong>)
+- Proposed Final Judgment, <i>U.S. et al. v. RealPage </i>[[PDF](https://www.justice.gov/atr/media/1383491/dl)]. (Again, just get an overall sense of what is happening with the settlement. <strong>Make sure to look at Sections IV, VII, and VIII.</strong>)
+
+(The original sources and other materials from the case against RealPage are available at <a href="https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc" target="_blank" rel="noopener">https://www.justice.gov/atr/case/us-and-plaintiff-states-v-realpage-inc</a>.)
+
+### Week 8: Regulation
+
+**Project 3** is due <strong>Wednesday, October 15 at 9:00pm</strong>. The starting notebook for Project 3 is here: [https://uvalawai.github.io/project3](https://uvalawai.github.io/project3).
+
+**Final Project Topic Discussion:** Contribute to the Final Project Topic Discussion before **Thursday, October 16** at **8:00 PM**. 
+
+
+**Readings:**
+
+- Artificial Intelligence Legislation Tracker, Brennan Center (Dec. 30, 2024): [https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker](https://www.brennancenter.org/our-work/research-reports/artificial-intelligence-legislation-tracker) (skim)
+
+EU Made Simple, The EU’s AI Act Explained, Youtube Video (Sept. 21, 2024): [https://www.youtube.com/watch?v=s_rxOnCt3HQ](https://www.youtube.com/watch?v=s_rxOnCt3HQ) 
+
+- Sarah Schechner and Stacy Meichtry, _Vance Warns U.S. allies to Keep AI Regulation Light_, Wall Street Journal, 11 February 2025. (available on course Canvas site) [https://www.wsj.com/tech/ai/vance-warns-u-s-allies-to-keep-ai-regulation-light-aa33c008?st=YXwaw7&reflink=desktopwebshare_permalink](https://www.wsj.com/tech/ai/vance-warns-u-s-allies-to-keep-ai-regulation-light-aa33c008?st=YXwaw7&reflink=desktopwebshare_permalink)
+
+- California Transparency in Frontier Artificial Intelligence Act (TFAIA), SB 53: [https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53) 
+
+### Week 9: Privacy
+
+- Joel Reardon, Serge Egelman, Kenneth A. Bamberger, and Larel E. McGrane. _Anonymity, Consent, and Other Noble Lies: An Empirical Study of the Data Economy_. To appear in Yale Journal of Law & Technology, 2025. [[Canvas Link](https://canvas.its.virginia.edu/courses/147155/files/16720877/download?download_frd=1)]
+
+[Serge Egelman](https://www.guanotronic.com/~serge/) will be our visitor in class on October 24.
+
+### Weeks 10 and 11: Draft Presentations
+
+Draft presentations and discussion from project teams.
+

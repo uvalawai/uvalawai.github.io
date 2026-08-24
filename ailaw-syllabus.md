@@ -11,13 +11,14 @@
   border: 2px solid #f59e0b;
   border-radius: 8px;
 ">
-This is a Draft Syllabus for Fall 2026 Course. The Syllabus is subject to change until the start of the semester.
+This is a Draft Syllabus for Fall 2026 Course.<br></br>
+The Syllabus is subject to change until the start of the semester.
 </div>
 
 
 ### Course Overview
 
-This course will explore connections between law and computing, with a focus on artificial intelligence and machine learning. 
+This course explores connections between law and computing, with a focus on artificial intelligence and machine learning. 
 
 This is a jointly taught course, and the LAW 7127 and CS 4501 courses will meet together and mostly have the same assignments. For many of the assignments, including the final project, Law and CS students will be working closely together in a team. This syllabus applies only for the CS section, though; the LAW class has a different syllabus.
 
@@ -35,7 +36,7 @@ This course meets jointly with a Law School class, and CS students will work clo
 
 **Meetings.** Friday mornings, 9:00-11:30am in WB 152 (at the Law School).
 
-**Teachers.** The course will be jointly taught by [Thomas Nachbar](https://www.law.virginia.edu/faculty/profile/tbn4n/1194120) (Professor of Law) and [David Evans](https://www.cs.virginia.edu/evans) (Professor of Computer Science).
+**Teachers.** The course is jointly taught by [Thomas Nachbar](https://www.law.virginia.edu/faculty/profile/tbn4n/1194120) (Professor of Law) and [David Evans](https://www.cs.virginia.edu/evans) (Professor of Computer Science).
 
 **Materials.** 
 Materials for the class will be posted on the course website or in canvas and will include both legal and computer science readings.
@@ -98,22 +99,8 @@ Below is an outline of the course with rough topic plans. Because this is a rapi
 
 **Class 5** (25 September): Regulatory Approaches
 
-**Class 6** (2 October): Midterm; Copyright
+**Class 6** (2 October): Midterm
 
-**Class 7** (9 October): Copyright; Final Project Updates
-
-**Class 8** (16 October): Anti-Trust
-
-**Class 9** (23 October): Liability
-
-**Class 10** (30 October): TBD
-
-**Class 11** (6 November): TBD
-
-**Class 12** (13 November): Draft Project Presentations
-
-**Class 13** (20 November): Draft Project Presentations
-
-Note that 4 December is not a class day for the Law School, so we will not have a normal class meeting on Friday, 4 December, but may plan something for just the CS students.
+After Class 5, we will cover a range of topics in AI and Law, such as copyright, antitrust, liability and AI safety, privacy, and the use of AI in legal practice. We will also invite outside speakers, so exact topics and dates will depend in part on speaker scheduling, in part on student interest, and in part on developments over the course of the semester.
 
 **Final Project Presentations**: Scheduled with instructors during end of semester and exam period.

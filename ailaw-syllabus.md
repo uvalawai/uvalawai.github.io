@@ -11,7 +11,7 @@
   border: 2px solid #f59e0b;
   border-radius: 8px;
 ">
-This is a Draft Syllabus for Fall 2026 Course.<br></br>
+This is a Draft Syllabus for Fall 2026 Course.<br>
 The Syllabus is subject to change until the start of the semester.
 </div>
 

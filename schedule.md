@@ -14,7 +14,7 @@
 
 **Post-Class Assignment:** [Create a Gem](https://canvas.its.virginia.edu/courses/188195/assignments/964757) due **8:00pm** on **Tuesday, 1 September**.
 
-**Pre-Class Assignment:** []() due **5:00pm** on **Thursday, 3 September**.
+**Pre-Class Assignment:** [Questions on Readings](https://canvas.its.virginia.edu/courses/188195/assignments/965158) due **5:00pm** on **Thursday, 3 September**.
 
 **Readings:** 
 

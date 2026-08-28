@@ -10,17 +10,18 @@
 
 **Pre-Class Assignment:** Questions on readings, due **5:00pm** on **Thursday, 27 August**.
 
-### Week 2
+### Week 2 
 
-**Readings:** (to be read and thought about before classs on Friday 5 September)
+**Post-Class Assignment:** [Create a Gem](https://canvas.its.virginia.edu/courses/188195/assignments/964757) due **8:00pm** on **Tuesday, 1 September**.
+
+**Pre-Class Assignment:** []() due **5:00pm** on **Thursday, 3 September**.
+
+**Readings:** 
 
 - Mark Riedl, [_The Intuition Behind How Large Language Models Work_, Part I](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-166cf2fb278a), Medium (Aug. 6, 2025). 
 - Mark Riedl, [_The Intuition Behind How Large Language Models Work_, Part II](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-part-ii-8c6a127a4a99), Medium (Aug. 13, 2025) 
-
-**Homework**
-
-- Submit the Homework 1: Using LLMs assignment in canvas by 9pm on Wednesday:
-[https://canvas.its.virginia.edu/courses/147155/assignments/757555](https://canvas.its.virginia.edu/courses/147155/assignments/757555)
+- Walter Spader, [_Memorandum of Decision: Court Sanction for Plaintiff's Use of Prompt Infection_](/readings/spader-sanction.pdf).
+Docket No. AAN-CV-25-6066141-S. Superior Court, Judicial District of Ansonia/Milford at Milford. 6 August 2026.
 
 ### Week 3
 

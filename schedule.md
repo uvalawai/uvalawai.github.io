@@ -20,7 +20,7 @@
 
 - Mark Riedl, [_The Intuition Behind How Large Language Models Work_, Part I](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-166cf2fb278a), Medium (Aug. 6, 2025). 
 - Mark Riedl, [_The Intuition Behind How Large Language Models Work_, Part II](https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-part-ii-8c6a127a4a99), Medium (Aug. 13, 2025) 
-- Walter Spader, [_Memorandum of Decision: Court Sanction for Plaintiff's Use of Prompt Infection_](/readings/spader-sanction.pdf).
+- Walter Spader, [_Memorandum of Decision: Court Sanction for Plaintiff's Use of Prompt Injection_](/readings/spader-sanction.pdf).
 Docket No. AAN-CV-25-6066141-S. Superior Court, Judicial District of Ansonia/Milford at Milford. 6 August 2026.
 
 ### Week 3

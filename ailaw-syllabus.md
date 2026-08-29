@@ -2,20 +2,6 @@
 
 ## cs4501: Law and Artificial Intelligence
 
-<div style="
-  max-width: 600px;
-  margin: 1rem auto;
-  padding: 1rem;
-  text-align: center;
-  background-color: #fff3b0;
-  border: 2px solid #f59e0b;
-  border-radius: 8px;
-">
-This is a Draft Syllabus for Fall 2026 Course.<br>
-The Syllabus is subject to change until the start of the semester.
-</div>
-
-
 ### Course Overview
 
 This course explores connections between law and computing, with a focus on artificial intelligence and machine learning. 

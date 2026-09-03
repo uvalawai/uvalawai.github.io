@@ -63,7 +63,9 @@ Each assignment will include a description of the acceptable uses of AI tools wh
 
 **Office Hours**
 
-Both instructors will have regular office hours, which will be posted on the course site soon. In addition to regular office hours, we’re happy to meet at other times if you can’t get your questions answered then or if those times don’t work for you. Please don’t hesitate to reach out to set up individual meetings. 
+Both instructors will have regular office hours. My office hours are Thursdays, 8:30-9:45am in Rice 507.
+
+In addition to regular office hours, we’re happy to meet at other times if you can’t get your questions answered then or if those times don’t work for you. Please don’t hesitate to reach out to set up individual meetings. 
 
 You should also feel free to send questions to us via email. We reserve the right to post the question and response (minus any information that would identify who asked the question) to the entire class if doing so will be helpful to others. The same applies to questions asked in other forums such as office hours.
 

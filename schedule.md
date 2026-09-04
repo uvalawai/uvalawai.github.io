@@ -25,6 +25,9 @@ Docket No. AAN-CV-25-6066141-S. Superior Court, Judicial District of Ansonia/Mil
 
 ### Week 3
 
+- Solon Barocas, Moritz Hardt & Arvind Narayanan, _Fairness and Machine Learning_ (2023), Chapter 3: _Classification_, [[Web Link](https://fairmlbook.org/classification.html)] [[PDF](https://fairmlbook.org/pdf/classification.pdf)]
+
+- Thomas B. Nachbar, _Algorithmic Fairness, Algorithmic Discrimination_, 48 Fla. St. L. Rev. 509 (2021), through end of Part I (up to p. 528) [[PDF](https://uvalawai.github.io/readings/nachbar-2021.pdf)]
 
 
 ### Week 4

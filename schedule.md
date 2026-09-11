@@ -32,6 +32,11 @@ Docket No. AAN-CV-25-6066141-S. Superior Court, Judicial District of Ansonia/Mil
 
 ### Week 4
 
+- Thomas B. Nachbar, _Against Transparency_. 
+[[PDF (Canvas Link)](https://canvas.its.virginia.edu/courses/188195/files/20500727/download?download_frd=1)]. Pre-publication version of paper to appear.
+
+Optional additional reading:
+- Aidan Cooper, [_Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses_](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/).
 
 ### Week 5
 

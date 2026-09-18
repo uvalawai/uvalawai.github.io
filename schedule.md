@@ -40,8 +40,25 @@ Optional additional reading:
 
 ### Week 5
 
+- EU Made Simple, The EU’s AI Act Explained, (Sept. 21, 2024)  [[YouTube Video](https://www.youtube.com/watch?v=s_rxOnCt3HQ)]
+
+- California Transparency in Frontier Artificial Intelligence Act (TFAIA) , SB 53, https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB53. This statute is very long. You may skim most of the statute, but you should:
+   - review the definition of “Artificial intelligence model” in section 22757.11(b)
+   - review the definition of "Catastrophic risk” in section 22757.11(c)
+   - get a good sense of the substance of section 22757.12(a) 
+
+- _Ensuring a National Policy Framework for Artificial Intelligence_, Exec. Order No. 14,365, 90 Fed. Reg. 58,499 (Dec. 11, 2025), https://www.federalregister.gov/documents/2025/12/16/2025-23092/ensuring-a-national-policy-framework-for-artificial-intelligence
+
+- Artificial Intelligence (AI) Legislation Tracker 2026: All 50 States, Multistate.ai, https://www.multistate.ai/artificial-intelligence-ai-legislation [Just browse a bit to get a sense of how much state regulation there is. We won't be going into any detail on this.]
+
+- Tony Romm, Dustin Volz and Michael Gold. _Congress Has Plenty of Ideas to Regulate A.I. Nearly All Are Stalled_, N.Y. Times (Sept. 15, 2026). [Posted in Canvas]
+
+- How Claude’s text watermark works, Anthropic (Aug. 14, 2026). https://www.anthropic.com/news/claude-text-watermark
+
 
 ### Week 6
+
+
 
 ### Week 7
 
